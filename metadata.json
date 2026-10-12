@@ -1,0 +1,6 @@
+{
+  "name": "Velorah® — Không Gian Kỹ Thuật Số Cho Sự Tập Trung Sâu",
+  "description": "Nơi những giấc mơ vươn mình qua miền tĩnh lặng. Không gian kỹ thuật số và công cụ chế tác cho những tâm trí sâu sắc, người sáng tạo quả cảm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
